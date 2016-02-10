@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41666ucmf_3_0022.png"; bbox 0 0 1746 2903; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 298 1274 583 1394">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 298 1274 583 1394">
+     <span class='ocr_line' id='line_1_1' title="bbox 337 1274 495 1321; baseline -0.038 -1"><span class='ocrx_word' id='word_1_1' title='bbox 337 1274 339 1276; x_wconf 61' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 383 1277 495 1321; x_wconf 57' lang='lat' dir='ltr'>watham:</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 298 1358 583 1394; baseline -0.039 -1"><span class='ocrx_word' id='word_1_3' title='bbox 298 1366 378 1393; x_wconf 68' lang='lat' dir='ltr'>PRINTED</span> <span class='ocrx_word' id='word_1_4' title='bbox 389 1364 411 1389; x_wconf 70' lang='grc' dir='ltr'>ΒΥ</span> <span class='ocrx_word' id='word_1_5' title='bbox 421 1362 468 1394; x_wconf 73' lang='lat' dir='ltr'>JOHN</span> <span class='ocrx_word' id='word_1_6' title='bbox 479 1360 531 1391; x_wconf 70' lang='lat' dir='ltr'>cm,</span> <span class='ocrx_word' id='word_1_7' title='bbox 545 1358 583 1383; x_wconf 63' lang='lat' dir='ltr'>M.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 310 1433 569 1466">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 310 1433 569 1466">
+     <span class='ocr_line' id='line_1_3' title="bbox 310 1433 569 1466; baseline -0.039 0"><span class='ocrx_word' id='word_1_8' title='bbox 310 1442 333 1466; x_wconf 73' lang='lat' dir='ltr'>AT</span> <span class='ocrx_word' id='word_1_9' title='bbox 344 1440 380 1465; x_wconf 77' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_10' title='bbox 392 1435 501 1463; x_wconf 77' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_11' title='bbox 513 1433 569 1458; x_wconf 80' lang='lat' dir='ltr'>PRESS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 878 2903">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 878 2903">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 878 2903; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 878 2903; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
